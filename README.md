@@ -1,2 +1,2 @@
 # Python
-Materi python awal
+Materi python awal, Algoritma
